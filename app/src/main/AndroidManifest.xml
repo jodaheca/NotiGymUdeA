@@ -20,10 +20,6 @@
             android:name=".ReceptorNotificacionActivity"
             android:label="@string/title_activity_receptor_notificacion" >
         </activity>
-        <activity
-            android:name=".MainActivity"
-            android:label="@string/title_activity_main" >
-        </activity>
     </application>
 
 </manifest>
