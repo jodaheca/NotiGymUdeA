@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NotiGymUdeA</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_receptor_notificacion">ReceptorNotificacionActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="titulo_notificacion">"Sistema del gimnasio de la UdeA"</string>
+    <string name="contenido_notificacion">"Recordatorio de asistencia"</string>
+    <string name="cuerpo_notificacion">Debes asistir continuamente al gimnasio sino quieres que te saquen del servicio.</string>
+</resources>
