@@ -29,7 +29,6 @@ public class CrearNotificacionActivity extends AppCompatActivity {
        // Preparamos el Intent que sera el encargado de llamar el metodo que activa la notificación
        Intent intent = new Intent(this, ReceptorNotificacionActivity.class);
        PendingIntent pIntent = PendingIntent.getActivity(this, (int) System.currentTimeMillis(), intent, 0);
-
        // Contruimos la notificación
        Notification noti = new Notification.Builder(this)
                .setContentTitle("Sistema del gimnasio de la UdeA")
